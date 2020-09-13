@@ -1,0 +1,32 @@
+.episodeCardWrapper {
+  margin-right: 15px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.8rem;
+}
+
+@media screen and (max-width: 768px) {
+  .episodeCardWrapper {
+    margin-left: 15px;
+  }
+}
+
+.episodeCardWrapper .serieImg {
+  border-radius: 3px;
+}
+
+.episodeCardWrapper .serieImg:hover {
+  opacity: 0.6;
+}
+
+.episodeCardWrapper .serieTitle {
+  font-weight: bold;
+  margin-bottom: 10px;
+  padding-top: 10px;
+}
+
+.episodeCardWrapper .serieDescription {
+  width: 230px;
+  padding-bottom: 40px;
+  line-height: 15px;
+}
+/*# sourceMappingURL=style.css.map */

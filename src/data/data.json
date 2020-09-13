@@ -1,0 +1,486 @@
+[{
+        "id": "0",
+        "type": "serie",
+        "title": "Mr. Robot",
+        "year": "2016",
+        "age": "+18",
+        "duration": "90 min",
+        "img": "https://image.tmdb.org/t/p/original/4ehcaqwJDUo9Byhse4Q5UgLByAh.jpg",
+        "imgPortada": "https://image.tmdb.org/t/p/original/4ehcaqwJDUo9Byhse4Q5UgLByAh.jpg",
+        "description": "Sigue a un misterioso anarquista que recluta a un joven programador de computadoras (Malek) que sufre de un trastorno antisocial y se conecta a la gente pirateándolos."
+    },
+    {
+        "id": "1",
+        "type": "series",
+        "title": "Breaking Bad",
+        "year": "2008",
+        "age": "+18",
+        "seasons": "5 temporadas",
+        "img": "https://image.tmdb.org/t/p/original/wKHImjeHwVIiWJWFIJtWUKkA5QJ.jpg",
+        "imgPortada": "https://image.tmdb.org/t/p/original/wKHImjeHwVIiWJWFIJtWUKkA5QJ.jpg",
+        "description": "Tras cumplir 50 años, Walter White (Bryan Cranston), un profesor de química de un instituto de Albuquerque, Nuevo México, se entera de que tiene un cáncer de pulmón incurable. Casado con Skyler (Anna Gunn) y con un hijo discapacitado (RJ Mitte), la brutal noticia lo impulsa a dar un drástico cambio a su vida: decide, con la ayuda de un antiguo alumno (Aaron Paul), fabricar anfetaminas y ponerlas a la venta.",
+        "seen": "14%",
+        "episodes": [{
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/ydlY3iPfeOAvu8gVqrxPoMvzNCn.jpg",
+                "serieTitle": "1. Piloto",
+                "serieDescription": "Walter White, profesor de química en un instituto, descubre que tiene cáncer de pulmón y decide trabajar junto con un ex-alumno elaborando metanfetamina de alta calidad para poder ganar dinero para que su familia se mantenga."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/2v0kPL1ARB9YCegUmT57cjT1KPm.jpg",
+                "serieTitle": "2. El gato está en la bolsa...",
+                "serieDescription": "Walter y Jesse tratan de atar cabos sueltos, pero la situación se vuelve cada vez más compleja rápidamente. Mientras, Skyler empieza a sospechar del comportamiento de Walt."
+            },
+            {
+                "serieImg": "//image.tmdb.org/t/p/w227_and_h127_bestv2/2kBeBlxGqBOdWlKwzAxiwkfU5on.jpg",
+                "serieTitle": "3. ...Y la bolsa está en el río",
+                "serieDescription": "Walter pelea con Jesse debido a su adicción a las drogas y Jesse se va, dejándole solo con su cautivo, Krazy-8; Hank lleva a Walter Jr. a dar un paseo para hablarle acerca de la marihuana; a Skyler no le gusta que Walt esté tan ausente de casa."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/i5BAJVhuIWfkoSqDID6FnQNCTVc.jpg",
+                "serieTitle": "4. Hombre del cáncer",
+                "serieDescription": "Walter finalmente revela a su familia que tiene cáncer. La DEA cree que hay en Albuquerque un nuevo pez gordo del que preocuparse. Jesse hace una visita a la casa de sus padres y Walt acaba desahogando su furia."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/82G3wZgEvZLKcte6yoZJahUWBtx.jpg",
+                "serieTitle": "5. Materia gris",
+                "serieDescription": "Walter y Skyler van a la fiesta de cumpleaños de un ex-compañero. Jesse trata de librarse de las drogas. Skyler reúne a la familia para que puedan hablar."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/hyYwqbmcHn3fuxWE3h4IhZZbkU3.jpg",
+                "serieTitle": "6. Nada como un puñado de locura",
+                "serieDescription": "Los efectos secundarios de la quimioterapia empiezan a afectar a Walt. Mientras tanto, la DEA trata de acercarse a sospechosos traficantes."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/1dgFAsajUpUT7DLXgAxHb9GyXHH.jpg",
+                "serieTitle": "7. Un trato de no violencia",
+                "serieDescription": "Walter acepta su identidad como traficante de drogas, Jesse decide poner en venta la casa de su tía y Skyler celebra un baby shower."
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "type": "series",
+        "title": "Vikingos",
+        "year": "2013",
+        "age": "+14",
+        "seasons": "6 temporadas",
+        "img": "https://image.tmdb.org/t/p/original/aq2yEMgRQBPfRkrO0Repo2qhUAT.jpg",
+        "imgPortada": "https://image.tmdb.org/t/p/original/aq2yEMgRQBPfRkrO0Repo2qhUAT.jpg",
+        "description": "Sigue las aventuras de Ragnar Lothbrok, el héroe más grande de su época. La serie narra las sagas de la banda de hermanos vikingos de Ragnar y su familia, cuando él se levanta para convertirse en el rey de las tribus vikingas. Además de ser un guerrero valiente, Ragnar encarna las tradiciones nórdicas de la devoción a los dioses, la leyenda dice que él era un descendiente directo de Odín, el dios de la guerra y los guerreros.",
+        "seen": "55%",
+        "episodes": [{
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/7cuiE0fvDXnCyVbQ5EXHtIz2sAr.jpg",
+                "serieTitle": "1. Ritos iniciáticos",
+                "serieDescription": "El mundo de los vikingos se recrea a través del viaje de Ragnar Lothbrok, el primer vikingo en salir de la leyenda nórdica y pasar a las páginas de la historia, un hombre al filo del mito."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/5IN9TOLnqt9dpIC3h6xnmGNqZuz.jpg",
+                "serieTitle": "2. La ira de los nórdicos",
+                "serieDescription": "Ragnar y su tripulación se preparan para su primer viaje rumbo al oeste, y el furioso conde Haraldson jura vengarse por tal acto de rebeldía."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/8aI8TkJNjaDWsprmQ9nY73mZ9iP.jpg",
+                "serieTitle": "3. Despojados",
+                "serieDescription": "El primer atraco a Inglaterra a manos de los vikingos es todo un éxito, y Ragnar elige una recompensa inusual, mientras Haraldson confabula estrategias para imponerse."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/lmGxHLz8EExTSrN4e44g6wCnvyE.jpg",
+                "serieTitle": "4. Juicio",
+                "serieDescription": "Los vikingos vuelven a Inglaterra para ver qué otros tesoros tiene para ofrecer este nuevo mundo. Esta vez, Ragnar y sus compañeros zarpan con el permiso de Earl Haraldson, y con su espía."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/zD7jw2MA9DWoGNkERG3zxA59pK.jpg",
+                "serieTitle": "5. La batida",
+                "serieDescription": "En la sala principal de Kattegat, un vidente lee el futuro de Earl Haraldson y le dice que Ragnar Lothbrok está buscando su muerte."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/kbcaeoP4vz6ggqFHKGPAtTBWCgr.jpg",
+                "serieTitle": "6. El funeral",
+                "serieDescription": "Ragnar, débil y aún herido, debe enfrentarse con Haraldson después de enterarse de que Rollo fue torturado por orden de él."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/tJFeOQIcK7BCBbMmGTqO9FF9noi.jpg",
+                "serieTitle": "7. El rescate de un rey",
+                "serieDescription": "Tres barcos vikingos navegan río arriba hacia el centro del poder en el este de Inglaterra: la casona real del rey Aella."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/z8sDwBSk48Al52CdA9u4vnPvWJQ.jpg",
+                "serieTitle": "8. Sacrificio",
+                "serieDescription": "El peregrinaje tradicional a Uppsala para agradecer a los dioses trae un torrente de emociones para Ragnar, Lagertha y Athelstan."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/oyNW4u6DhkaF9m44RXo3Lwwc0WC.jpg",
+                "serieTitle": "9. Todo cambia",
+                "serieDescription": "Mientras Ragnar emprende una misión diplomática para el rey, Rollo cambia de bando, y Lagertha combate una arrasadora epidemia mortal en el pueblo."
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "type": "series",
+        "title": "Silicon Valley",
+        "year": "2014",
+        "age": "ATP",
+        "seasons": "6 temporadas",
+        "img": "https://image.tmdb.org/t/p/original/4pfXAnWxOfEJsUgDPW0zqzs5UWv.jpg",
+        "imgPortada": "https://image.tmdb.org/t/p/original/4pfXAnWxOfEJsUgDPW0zqzs5UWv.jpg",
+        "description": "En la fiebre del oro de alta tecnología moderna de Silicon Valley, las personas más calificadas para tener éxito son los menos capaces de manejar el éxito. Parcialmente inspirada en las propias experiencias de Mike Judge como ingeniero de Silicon Valley a finales de los años 80, Silicon Valley es una comedia de situación estadounidense que se centra en torno a seis programadores que están viviendo juntos y tratando de hacer algo grande en el Silicon Valley.",
+        "seen": "1%",
+        "episodes": [{
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/zXr9tjwoL7L3YYKiXjMutwRS20U.jpg",
+                "serieTitle": "1. Producto mínimamente viable",
+                "serieDescription": "En un evento, Richard y sus amigos programadores sueñan con un futuro prometedor. La creación de un algoritmo especial puede conducir al grupo al éxito deseado, tanto que reciben propuestas millonarias de dos empresas inversoras de Silicon Valley."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/pToo70MPuY9o7Wyi3S0gIveaIHO.jpg",
+                "serieTitle": "2. La capitalización",
+                "serieDescription": "Después de una fiesta, Richard y Erlich descubren que el dinero de la venta de la empresa solo se obtendrá después de la elaboración de un plan estratégico que contemple la reducción de personal. Gilfoyle y Dinesh tratan de demostrar que son esenciales para el negocio."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/ymM7tW5eMPMU2c2DQDb6nLu5V5d.jpg",
+                "serieTitle": "3. Estatutos",
+                "serieDescription": "Gavin Belson es la competencia de Richard, cuya compañía tiene un nombre que ya está registrado por otra persona. Erlich prefiere encontrar una alternativa. Peter Gregory, a su vez, se muestra evasivo cuando se trata de dinero."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/6W2pD1KzIEd6H4fZgem5U739YR0.jpg",
+                "serieTitle": "4. Obligaciones fiduciarias",
+                "serieDescription": "En una fiesta de Togas, Richard en estado de ebriedad promete nombrar a Erlich como parte de la junta, una decisión de la cual se arrepentirá. Richard lucha para realizar una presentación sin Erlich sobre Pied Piper. Luego, descubre una conexión entre Peter y Gavin Belson."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/4PHnrI1ClfFNYjFkRiyJozssurL.jpg",
+                "serieTitle": "5. Indicador de riesgo",
+                "serieDescription": "Erlich convence a un artista del grafiti para crear el logo de Pied Piper, con resultados controversiales."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/n2hm1gEsiDKqRrzgwMxuSJFubT8.jpg",
+                "serieTitle": "6. Internacionalización de terceros",
+                "serieDescription": "Erlich convence a un artista del grafiti para crear el logo de Pied Piper, con resultados controversiales."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/tgETSBSx8bwk92lp9nJMJ2IQj8R.jpg",
+                "serieTitle": "7. Prueba de concepto",
+                "serieDescription": "En TechCrunch Disrupt, Richard es distraído por una mujer con quien llegó a salir por poco tiempo. La relación amistosa entre Erlich y un juez pone en peligro a Piep Piper."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/rLdY23pU74fqHYNRT8XyMFZM773.jpg",
+                "serieTitle": "8. Eficacia óptima punta a punta",
+                "serieDescription": "En el último episodio de la temporada, la presentación de un competidor deja a todo el equipo de Pied Piper impresionado. Jared piensa en algo para revertir el cuadro y Richard introduce profundos cambios en el proyecto."
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "type": "series",
+        "title": "Los Simuladores",
+        "year": "2002",
+        "age": "ATP",
+        "seasons": "2 temporadas",
+        "img": "https://image.tmdb.org/t/p/original/CVldI1pzrg0TNQgXFOc9PMo9nB.jpg",
+        "imgPortada": "https://image.tmdb.org/t/p/original/CVldI1pzrg0TNQgXFOc9PMo9nB.jpg",
+        "description": "Los simuladores fue una serie de televisión argentina acerca de un grupo de cuatro socios que mediante operativos de simulacro sofisticados resuelven los problemas de gente común. La serie se emitió en Argentina por el canal de televisión Telefé en dos temporadas; la primera en 2002 y la segunda en 2003, obteniendo altísimos niveles de audiencia.",
+        "seen": "100%",
+        "episodes": [{
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/tS8hIg4BuCqRNyvn9cn6yO2U4EM.jpg",
+                "serieTitle": "1. Tarjeta de navidad",
+                "serieDescription": "Los Simuladores son un grupo comando especializado en la realización de operativos de simulación para solucionar los problemas que les plantean sus clientes."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/e0SXQBmx0EFhPpz27NRYXXxckpG.jpg",
+                "serieTitle": "2. Diagnóstico rectoscópico",
+                "serieDescription": "Laguzzi, un usurero despiadado, amenaza de muerte a los hijos de Vanegas, su cliente, si no paga la deuda antes de determinada fecha. Vanegas contrata a los Simuladores."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/gb8pM8HcKEOZ0LTos1TqPDZ7eE8.jpg",
+                "serieTitle": "3. Seguro de desempleo",
+                "serieDescription": "Despiden a Feler tras cuarenta años de trabajo en una fábrica láctea. Los Simuladores se encargarán de conectar a Feler directamente con los dueños de la fábrica."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/k4UBPMY0zIGOa0AOKdRHo1qXUjK.jpg",
+                "serieTitle": "4. El testigo español",
+                "serieDescription": "Alicia, oftalmóloga, casada y madre de dos hijos, recibe sorpresivamente la visita en su propia casa de Villarreal, un egocéntrico colega español que quiere chantajearla."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/l2Uoqd4pAxicHaMtxya0sQgf0iv.jpg",
+                "serieTitle": "5. El joven simulador",
+                "serieDescription": "A la mujer del arquitecto Miguens podrían quedarle pocos meses de vida. El médico recomienda que no le den malas noticias. Pero su hijo está a punto de repetir el año."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/wQYS9kDiiMejReu1inXzckzZjHB.jpg",
+                "serieTitle": "6. El pequeño problema del gran...",
+                "serieDescription": "El Dr. Agustín Mendilaharzu, Presidente de la Nación, sufre de impotencia sexual. Por miedo a que la prensa se entere, se niega a ver a un sexólogo."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/yW35vrJdctKmjSe4LIb5LxpF91w.jpg",
+                "serieTitle": "7. Fuera de cálculo",
+                "serieDescription": "Los Simuladores entran a un banco para extraer los negativos con fotos de Sorkin, su cliente, junto a su amante, de la caja de seguridad de un extorsionador."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/fpYYxyH62YUeZFYJN1bLfLNcZmC.jpg",
+                "serieTitle": "8. El pacto Copérnico",
+                "serieDescription": "Zarazola es un abogado adúltero que desea desprenderse de Laura, su mujer, sin sentir culpa. Contacta a los Simuladores para que ella lo deje a él."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/veQa1WNrPEAgh1hgNzN9OIWEFjR.jpg",
+                "serieTitle": "9. El último héroe",
+                "serieDescription": "Milazzo, un falso representante de artistas, explota diversos barrios pobres, cobrando a sus clientes una matrícula para hacerlos famosos y llevarlos a trabajar."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/lZaYiTF714vRyYrbnolUXANVRkH.jpg",
+                "serieTitle": "10. Los impresentables",
+                "serieDescription": "Clara, de padres muy ordinarios, está de novia con Federico, hijo de una familia elegante. Ante un encuentro familiar, Los Simuladores se encargan de que todo salga bien."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/aRgQ1g3gCeeqsJ96wvOo5D41ppL.jpg",
+                "serieTitle": "11. El colaborador foráneo",
+                "serieDescription": "Crucitti es un comisario corrupto que extorsiona a los dueños de los locales comerciales de su zona. Pero Los Simuladores se encargarán de resolver el problema."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/eAzCAtpdE7O5kfy0X2WHJMpYops.jpg",
+                "serieTitle": "12. Marcela y Paul",
+                "serieDescription": "Marcela está sumergida en una profunda depresión. No puede dormir bien y molesta permanentemente a su exmarido y a Natalia, su hija, quien convoca a Los Simuladores."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/jGzSG12wRWidsNS3NDhO6tusQ0L.jpg",
+                "serieTitle": "13. Un trabajo involuntario",
+                "serieDescription": "Los Simuladores están pensando en tomarse unas vacaciones cuando secuestran a Santos, el estratega del grupo."
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "type": "series",
+        "title": "Rick y Morty",
+        "year": "2013",
+        "age": "ATP",
+        "seasons": "4 temporadas",
+        "img": "https://image.tmdb.org/t/p/original/8aCek7W6BovH7M4enWjqrGptvQ8.jpg",
+        "imgPortada": "https://image.tmdb.org/t/p/original/8aCek7W6BovH7M4enWjqrGptvQ8.jpg",
+        "description": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
+        "seen": "77%",
+        "episodes": [{
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/oWaKdUeMOlVZem3v9DWsdDGlTuY.jpg",
+                "serieTitle": "1. Piloto",
+                "serieDescription": "Rick, un excéntrico científico con problemas con la bebida, vivirá extrañas aventuras con su nieto Morty en esta serie basada en Regreso al futuro."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/r3CzGadu9EEunFtuTqmXxMRkX5V.jpg",
+                "serieTitle": "2. El cortador de césped perruno",
+                "serieDescription": "Rick y Morty tratan de hacer cambiar el profesor de matemáticas de Morty para que le de una 'A'. Mientras tanto el perro intentará la dominación mundial."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/3cp6QrExDBQUFGcOu43NBtaugNY.jpg",
+                "serieTitle": "3. Parque anatómico",
+                "serieDescription": "El día de Navidad, un amigo de Rick se hace su chequeo médico anual. Mientras tanto Jerry se entera de que sus padres tienen un nuevo amigo."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/dAlrn9OIvMuaebSCK3JJVYn8qnu.jpg",
+                "serieTitle": "4. Los alienígenas de los giros...",
+                "serieDescription": "Rick y Morty tratan de llegar al fondo de un misterio en este episodio que no hará más que dar giros inesperados!"
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/9nh9ZpxOyCJMD73biS2h3CvHfm2.jpg",
+                "serieTitle": "5. La misión de los Meeseeks",
+                "serieDescription": "Rick le da a la familia una solución a sus problemas quedando así libre para correr una gran aventura junto a Morty."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/cuNE6h2oSvm1gvxOzFIbswjwAjq.jpg",
+                "serieTitle": "6. Poción de Rick nº 9",
+                "serieDescription": "Rick le da a Morty una aparente inofensiva poción de amor para conquistar a Jessica. Pronto todo se convertirá en una auténtica pesadilla."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/ctFz5NLR4kRwpXsdC6xvqQI8U1h.jpg",
+                "serieTitle": "7. Educando a Gazórpazorp",
+                "serieDescription": "Morty convence a Rick de que le compre un robot sexual y es ahí donde empiezan los problemas."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/HaTpHoQw2DWFAtHgGKn4gLOEaX.jpg",
+                "serieTitle": "8. Sesenta Rick-nutos",
+                "serieDescription": "Rick hackea la caja de la tele por cable, pero la familia se distrae con otra invención."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/daA9q3U3ibIcm5OGuklySeIsQWV.jpg",
+                "serieTitle": "9. Cosas necesarias",
+                "serieDescription": "Rick se enfrenta al diablo y trastorna el verano. Mientras tanto, Jerry y Morty pasan el rato."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/8gOouaPQhfB8cC01sYyFLYgTcRq.jpg",
+                "serieTitle": "10. Encuent-Ricks en la Rick-cera..",
+                "serieDescription": "Rick y Morty han peleado, cuando Rick es abordado por algunos socios familiares."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/mLJbMSLaB8CZmr07GJGH9TiG4PL.jpg",
+                "serieTitle": "11. Negocio Ricksy",
+                "serieDescription": "Beth y Jerry van de viaje, por lo que Rick decide hacer una fiesta."
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "type": "series",
+        "title": "La casa de papel",
+        "year": "2017",
+        "age": "ATP",
+        "seasons": "3 temporadas",
+        "img": "https://image.tmdb.org/t/p/original/tNlkKrypFs6QSUjFVQntFISoFv5.jpg",
+        "imgPortada": "https://image.tmdb.org/t/p/original/tNlkKrypFs6QSUjFVQntFISoFv5.jpg",
+        "description": "Un enigmático personaje llamado el Profesor planea algo grande: llevar a cabo el mayor atraco de la historia. Para ello recluta una banda de ocho personas que reúnen un único requisito, ninguno tiene nada que perder. Cinco meses de reclusión memorizando cada paso, cada detalle, cada probabilidad… y por fin, once días de encierro en la Fábrica Nacional de Moneda, rodeados de cuerpos de policía y con decenas de rehenes en su poder para saber si su apuesta suicida será todo o nada.",
+        "seen": "25%",
+        "episodes": [{
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/mxdCIxCA6DydRcRUpEXLwZHDWXZ.jpg",
+                "serieTitle": "Capítulo 1",
+                "serieDescription": "Tokio, una joven experta en asaltos, se esconde de la policía en una auto caravana. De allí la rescata El Profesor, un enigmático personaje que le propone el golpe de su vida,"
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/e5sVue90Xd7kbTLrfbArexjpPEz.jpg",
+                "serieTitle": "Capítulo 2",
+                "serieDescription": "Cuando el plan estaba saliendo sobre ruedas, uno de los atracadores comete un error grande. Un descuido provoca que la policía vea su cara. Los rehenes, por orden de Berlín, empiezan a cavar un túnel y descubren explosivos suficientes como para derrumbar el edificio."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/8CUeEvXECN6upEplYvLRwkns8dH.jpg",
+                "serieTitle": "Capítulo 3",
+                "serieDescription": "Berlín ordena a Denver que ejecute a Mónica al pillarla con un móvil. La secretaria de la Fábrica ruega a Denver por su vida. Moscú enfurece con la orden que ha recibido su hijo, que pone en peligro su vida."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/h1Jt1XUkSdUGf2NM4PK1yN463tN.jpg",
+                "serieTitle": "Capítulo 4",
+                "serieDescription": "Arturo tiene un disparo cerca del hombro y necesita asistencia médica, pero los atracadores se niegan a que abandone la Fábrica de Moneda y Timbre. Tendrá que entrar un equipo médico para hacer la cura."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/1rwNOcDJDckVUiBN4LlCy5Ou4kO.jpg",
+                "serieTitle": "Capítulo 5",
+                "serieDescription": "Cuando parecía que todo estaba en punto muerto, la policía localiza el coche con el que Tokio y Río viajaban para visitar el museo cuando preparaban el golpe."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/rGfZXEba8shIyNViwSuPbGwHenw.jpg",
+                "serieTitle": "Capítulo 6",
+                "serieDescription": "La filtración de las negociaciones con los atracadores de la Fábrica de la Moneda pone en el punto de mira de la prensa a Raquel."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/fenc9yftHvi27iNjGL9xbzlAIUI.jpg",
+                "serieTitle": "Capítulo 7",
+                "serieDescription": "La policía ya tiene la identidad de tres de los atracadores: Río, Tokio y Berlín."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/fzgAqAeutxJR7WEe1xgbff6qT7y.jpg",
+                "serieTitle": "Capítulo 8",
+                "serieDescription": "A pesar de los contratiempos y de llevar más de 60 horas encerrados, el ánimo de los atracadores no decae. "
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "type": "series",
+        "title": "Juego de Tronos",
+        "year": "2011",
+        "age": "+18",
+        "seasons": "8 Temporadas",
+        "img": "https://image.tmdb.org/t/p/original/suopoADq0k8YZr4dQXcU6pToj6s.jpg",
+        "imgPortada": "https://image.tmdb.org/t/p/original/suopoADq0k8YZr4dQXcU6pToj6s.jpg",
+        "description": "En una tierra donde los veranos duran décadas y los inviernos pueden durar toda una vida, los problemas acechan. Desde las maquinaciones del sur a las salvajes tierras del este, pasando por el helado norte y el milenario Muro que protege el reino de las fuerzas tenebrosas, dos poderosas familias mantienen un enfrentamiento letal por gobernar los Siete Reinos de Poniente. Mientras la traición, la lujuria y las fuerzas sobrenaturales sacuden los pilares de los Reinos, la sangrienta batalla por el Trono de Hierro tendrá consecuencias imprevistas y trascendentales. El invierno se acerca. Que empiece Juego de Tronos",
+        "seen": "17%",
+        "episodes": [{
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/wrGWeW4WKxnaeA8sxJb2T9O6ryo.jpg",
+                "serieTitle": "1. Se acerca el invierno",
+                "serieDescription": "El Lord Ned Stark está preocupado por los perturbantes reportes de un desertor del Nights Watch; El Rey Robert y los Lannisters llegan a Winterfell; el exiliado Viserys Targaryen forja una nueva y poderosa alianza."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/icjOgl5F9DhysOEo6Six2Qfwcu2.jpg",
+                "serieTitle": "2. El camino real",
+                "serieDescription": "Cuando Bran sobrevive milagrosamente a su caída de la torre, Cersei y Jaime conspiran para asegurar su silencio; Jon Snow y Tyrion se dirigen a El Muro; al convertirse en la mano derecha del rey, Ned deja Winterfell con sus hijas Sansa y Arya."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/4vCYVtIhiYSUry1lviA7CKPUB5Z.jpg",
+                "serieTitle": "3. Lord Nieve",
+                "serieDescription": "Jon impresiona a Tyrion en Castle Black; Ned se enfrenta a su pasado y a su futuro en Kings Landing; En el camino a Vaes Dothrak, Daenerys se pelea con Viserys."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/Ai2UPMWv38xGjOgNBuA1o8w8dUI.jpg",
+                "serieTitle": "4. Tullidos, bastardos y cosas rotas",
+                "serieDescription": "Ned busca pistas sobre la muerte de su predecesor, y descubre uno de los bastardos del Rey Robert; Jon toma medidas para proteger a Sam de los abusos en Castle Black; Tyrion es atrapado en el lugar equivocado."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/5fDE2RqYXySfvYNdOOhOsdFl8ZA.jpg",
+                "serieTitle": "5. El lobo y el león",
+                "serieDescription": "Ned rechaza una orden del Rey. Un prisionero Tyrion ayuda a Catelyn y logra escapar de un encuentro muy peligroso, pero es recibido con la fría hermana de Catelyn en el Eyrie. Arya oye por casualidad un complot contra su padre."
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "type": "pelis",
+        "title": "Hard kill",
+        "year": "2020",
+        "age": "+16",
+        "duration": "1h 38m",
+        "img": "https://image.tmdb.org/t/p/original/86L8wqGMDbwURPni2t7FQ0nDjsH.jpg",
+        "imgPortada": "https://image.tmdb.org/t/p/original/86L8wqGMDbwURPni2t7FQ0nDjsH.jpg",
+        "description": "El trabajo del multimillonario CEO de tecnología Donovan Chalmers es tan valioso que contrata mercenarios para protegerlo, y un grupo terrorista secuestra a su hija solo para conseguirlo."
+    },
+    {
+        "id": "9",
+        "type": "pelis",
+        "title": "Rogue",
+        "year": "2020",
+        "age": "+16",
+        "duration": "2h 33m",
+        "img": "https://image.tmdb.org/t/p/original/4UbBXsjjpOeTaWYa0ZYR4XvqZBb.jpg",
+        "imgPortada": "https://image.tmdb.org/t/p/original/4UbBXsjjpOeTaWYa0ZYR4XvqZBb.jpg",
+        "description": "Rogue es la historia de una pequeña unidad mercenaria de soldados que han sido contratados por el gobernador de un país africano para rescatar a su hija que ha sido secuestrada por una organización terrorista."
+    },
+    {
+        "id": "10",
+        "type": "pelis",
+        "title": "Santana",
+        "year": "2020",
+        "age": "+16",
+        "duration": "1h 46m",
+        "img": "https://image.tmdb.org/t/p/original/7fvdg211A2L0mHddvzyArRuRalp.jpg",
+        "imgPortada": "https://image.tmdb.org/t/p/original/7fvdg211A2L0mHddvzyArRuRalp.jpg",
+        "description": "Dos hermanos, uno narcotraficante y el otro general, descubren finalmente la identidad del capo de la droga que asesinó a sus padres hace décadas. Pueden matarse entre sí antes de capturar a los malos."
+    },
+    {
+        "id": "11",
+        "type": "pelis",
+        "title": "Orígenes secretos",
+        "year": "2020",
+        "age": "+18",
+        "duration": "1h 37m",
+        "img": "https://image.tmdb.org/t/p/original/lYSwIVKumpc3kdEChMHCOLqdiOg.jpg",
+        "imgPortada": "https://image.tmdb.org/t/p/original/lYSwIVKumpc3kdEChMHCOLqdiOg.jpg",
+        "description": "En Madrid, España, un misterioso asesino en serie mata cruelmente a sus víctimas recreando la primera aparición de varios superhéroes de cómic. Cosme, un veterano inspector de policía que está a punto de retirarse, trabaja en el caso con el atormentado inspector David Valentín y su propio hijo Jorge Elías, un joven friki que posee una tienda de cómics."
+    },
+    {
+        "id": "12",
+        "type": "pelis",
+        "title": "Proyecto Power",
+        "year": "2020",
+        "age": "+18",
+        "duration": "1h 53m",
+        "img": "https://image.tmdb.org/t/p/original/qVygtf2vU15L2yKS4Ke44U4oMdD.jpg",
+        "imgPortada": "https://image.tmdb.org/t/p/original/qVygtf2vU15L2yKS4Ke44U4oMdD.jpg",
+        "description": "Comienza a correrse la voz por las calles de Nueva Orleans de una misteriosa pastilla nueva que le confiere superpoderes únicos a cada persona que la consume."
+    },
+    {
+        "id": "13",
+        "type": "pelis",
+        "title": "After: en 1000 pedazos",
+        "year": "2020",
+        "age": "+16",
+        "duration": "1h 14m",
+        "img": "https://image.tmdb.org/t/p/original/r5srC0cqU36n38azFnCyReEksiR.jpg",
+        "imgPortada": "https://image.tmdb.org/t/p/original/r5srC0cqU36n38azFnCyReEksiR.jpg",
+        "description": "Ha pasado el tiempo, y Hardin todavía no se sabe si es realmente el chico profundo y reflexivo del que Tessa se enamoró, o ha sido un extraño todo este tiempo."
+    },
+    {
+        "id": "14",
+        "type": "pelis",
+        "title": "ARCHIVE",
+        "year": "2020",
+        "age": "ATP",
+        "duration": "1h 45m",
+        "img": "https://image.tmdb.org/t/p/original/u9YEh2xVAPVTKoaMNlB5tH6pXkm.jpg",
+        "imgPortada": "https://image.tmdb.org/t/p/original/u9YEh2xVAPVTKoaMNlB5tH6pXkm.jpg",
+        "description": "2038: George Almore está trabajando en una verdadera IA equivalente a la humana. Su último prototipo está casi listo. Esta fase sensible también es la más arriesgada. Especialmente porque tiene un objetivo que debe ocultarse a toda costa: reunirse con su esposa muerta",
+        "commentario": "QUEIERO HACER DEJAR ALGUNAS PALABRAS PARA EL QUE LO LEA. SI ME VOLVÍ LOCO TRATANDO DE ENCONTRAR EL TAMAÑO DE LAS IMAGENES EL PATRON QUE ERA EL SIGUIENTE w227_and_h127_bestv2"
+    }
+]

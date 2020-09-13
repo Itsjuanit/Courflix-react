@@ -1,0 +1,25 @@
+.episodesWrapper {
+  background-color: black;
+  color: white;
+}
+
+.episodesWrapper .episodesTitle {
+  font-size: 1.2rem;
+  padding-left: 100px;
+  font-family: 'Open Sans', sans-serif;
+  padding-top: 20px;
+  margin-bottom: -30px;
+}
+
+@media screen and (max-width: 768px) {
+  .episodesWrapper .episodesTitle {
+    margin-left: -50px;
+  }
+}
+
+.episodesWrapper .episodesSlick {
+  width: 85%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+/*# sourceMappingURL=style.css.map */

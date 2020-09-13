@@ -1,26 +1,24 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import '../src/assets/reset.css'
+import BurgerMenu from './components/BurgerMenu'
+import Navbar from './components/Navbar'
+import Hero from './components/Hero'
+import Carousel from './components/Carousel';
+import Footer from './components/Footer';
+import data from './data/data.json'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends React.Component {
+  render() {
+    return (
+      <div>
+        <Navbar/>
+        <Hero data={data[0]} showThumbs={false}/>
+        <Carousel data={data}/>
+        <Footer />
+      </div>
+    );
+  }
 }
 
 export default App;

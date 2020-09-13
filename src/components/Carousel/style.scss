@@ -1,0 +1,16 @@
+.carouselWrapper {
+    background-color: #000000;
+    padding-bottom: 20px;
+    .carouselTitle {
+        font-size: 1.6rem;
+        margin-left: 100px;
+        padding-top: 40px;
+        padding-bottom: 10px;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 1rem;
+        color: #ffffff;
+        @media screen and(max-width: 768px){
+            margin-left: 32px;
+        }
+    }
+}
